@@ -21,7 +21,7 @@ jobs:
     # Output command using asciidoctor-action
     - name: Build AsciiDoc step
       id: documents
-      uses: Analog-inc/asciidoctor-action@v1
+      uses: wohlyz/asciidoctor-action@v1
       with:
         shellcommand: "./.github/workflows/asciidoc.sh"
     # Use the output from the documents step
