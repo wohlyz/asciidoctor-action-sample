@@ -14,7 +14,7 @@ v1.0, 2020-04-18
 :docinfo:
 // 画像を埋め込み
 :data-uri:
-// 目次test
+// 目次tes
 :toclevels: 3
 :toc: left
 // セクションにアンカーを作成
